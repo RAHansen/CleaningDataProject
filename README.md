@@ -1,11 +1,4 @@
-# CleaningDataProject
-Course Project for Getting and Cleaning Data Course
----
-title: "README for Course Project"
-author: "R.A.Hansen"
-date: "Sunday, February 22, 2015"
-output: html_document
----
+## Course Project for Getting and Cleaning Data Course
 
 This project summarizes measurement data used in the study of wearable computing devices.
 The original study is referenced here: <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>
